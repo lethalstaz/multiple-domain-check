@@ -14,6 +14,7 @@
 [+] - Now run bot.php by typing....
 
 [+] - php bot.php
+    + choose your desired choice of host to find e.g cloudflare or nginx.
 
 [+] - Enjoy,and please edit with credit🤣
  
